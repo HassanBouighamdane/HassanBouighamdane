@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hassan Bouighamdane</h1>
 <h3 align="center">A passionate fullstack developer and a Software Engineering student at @INPT</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;UX/UI+Enthusiast%20&center=true&width=500&height=50"></a>
+</p>
+
 - 🌱 I’m currently learning **all about software engineering**
-  
+ 
 <p align="left">📫 How to reach me:</p>
 <p align="left">
 <a href="mailto:hassanbouighamdane2002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="gmail" height="30" width="40" /></a>
