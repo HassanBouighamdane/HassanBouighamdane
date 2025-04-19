@@ -15,11 +15,15 @@
 - 👨‍💻 You can find my personal website <a href="https://hassanbouighamdane.github.io/portfolio/" target="_blank"> here </a>.
 
 <p>______________________________________________________________________________________________________________________________</p>
+### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanBouighamdane&layout=donut-vertical" alt="hassan-bouighamdane" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HassanBouighamdane&show_icons=true&locale=en" alt="hassan-bouighamdane" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanBouighamdane&" alt="hassan-bouighamdane" /></p>
-
+<p align="left">
+<a href="https://github.com/AnasImloul">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HassanBouighamdane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HassanBouighamdane&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanBouighamdane&layout=compact&langs_count=8&theme=algolia" alt="hassan-bouighamdane" />
+</a>
+</p>
 <h2 align="left">Skills</h2>
 <ul>
   <li>
